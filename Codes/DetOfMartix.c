@@ -28,7 +28,7 @@ int main()
     printf("result = %f\n",ans);
     return 0;
 }
-u
+
 double Dslove(int n,double *a)
 {
     double sum=0;
