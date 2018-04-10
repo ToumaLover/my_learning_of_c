@@ -3,6 +3,6 @@
 I'm just a learner of programing, and my code may be hard to look or fool.
 If you found my fault, please tell me, thank you! 
 
-If somebody have used my code, please show my name in a '//'.But if he didn't, I will not did something on him.
+If somebody have used my code, please show my name in a '//ToumaLover'.But if he didn't, I will not do anything on him.
 
 
